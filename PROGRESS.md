@@ -3,6 +3,12 @@
 記録形式: `## YYYY-MM-DD` の見出しの下に、担当・内容を簡潔に記載する。新しい日付を上に追加していく。
 
 ## 2026-09-06
+- 担当: ChatGPT(食べログ点数調査)+ Claude(脚本反映)
+- walk01の確定済み脚本に、飲食店候補それぞれの食べログ点数(確認日: 2026年9月7日)を
+  追記した。脚本の構成・判断内容(9/12(土)推奨など)に変更はない。詳細は
+  `scripts/walk01_tokyo-nihonbashi-ningyocho_script.md`を参照。
+
+## 2026-09-06
 - 担当: Claude(脚本作成)+ ChatGPT(検証)
 - 東京駅→日本橋・人形町(walk01)の取材脚本を作成し、ChatGPTによる営業日・雨天対応・史実の検証を経て確定した。詳細は`scripts/walk01_tokyo-nihonbashi-ningyocho_script.md`を参照。
 
